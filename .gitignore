@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Google Colab specific
+shell-init.sh
+*.log
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+data/
+datasets/
+results/
+plans/
+skills/
+docs/
+*.ipynb
+!Project_Fruit_Sorting.ipynb
