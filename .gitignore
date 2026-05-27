@@ -46,4 +46,6 @@ plans/
 skills/
 docs/
 *.ipynb
-!Project_Fruit_Sorting.ipynb
+venv/
+accuracy_report.csv
+
